@@ -1,4 +1,4 @@
-## Olá, Mundo! 👋
+## Hello World! 👋
 
 
 <a href="https://github.com/KaykyRich/github-readme-stats">
